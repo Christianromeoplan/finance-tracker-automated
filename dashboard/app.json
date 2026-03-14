@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Finance Tracker",
+    "slug": "finance-tracker",
+    "version": "1.0.0",
+    "scheme": "finance-tracker",
+    "platforms": ["ios", "android"],
+    "plugins": ["expo-router"],
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0D0D0D"
+      }
+    }
+  }
+}
